@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Wisconsin, US",
+  "export_job_id": "e26587fb-bc3f-4e34-b82c-cbf19c2cf74c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 455874,
+  "location_name": "Wisconsin",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-wisconsin-us-sample-455874",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/455874/beamstation_455874_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 5,
+  "sample_sha256": "4065592e4d4b3fdacff9619fe1699decbc3c997e63cf6e2795495b6bfacc8731",
+  "sample_size_bytes": 37025,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:03:28.196454+00:00"
+}
