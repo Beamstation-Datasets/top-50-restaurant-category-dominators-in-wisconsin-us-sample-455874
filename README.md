@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 50 records |
 | Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:03:28.196454+00:00 |
+| Last export | 2026-04-15T06:44:23.493931+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-wisconsin-us-sample-455874/releases/download/sample-latest/beamstation_455874_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
