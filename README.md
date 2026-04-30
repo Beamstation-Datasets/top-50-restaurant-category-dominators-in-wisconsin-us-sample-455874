@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Wisconsin, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `455874` |
 | Location | Wisconsin |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-22T12:54:57.277198+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-29T13:45:55.851589+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-wisconsin-us-sample-455874/releases/download/sample-latest/beamstation_455874_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
