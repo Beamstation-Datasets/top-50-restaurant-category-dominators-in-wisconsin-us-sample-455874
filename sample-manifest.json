@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6e137afa-15bf-4b97-af9c-7d405f12dd3e",
+  "export_job_id": "96ffe81f-455e-48b8-86cd-e3de162cae2f",
   "id_short": 455874,
-  "published_at": "2026-04-22T19:44:58Z",
+  "published_at": "2026-04-30T07:27:17Z",
   "repo_name": "top-50-restaurant-category-dominators-in-wisconsin-us-sample-455874",
   "sample_asset_name": "beamstation_455874_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/455874/beamstation_455874_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "cb35d2621ba5bbed237e4c864c0f45a8f27ab5d3310071c9eb1307dbd339f8a9",
-  "sample_size_bytes": 33684,
-  "total_records": 47
+  "sample_records": 5,
+  "sample_sha256": "2569e11506af1574d7d54bf549cbdd16c48fcd8b30de88412c4e2be71e6d899b",
+  "sample_size_bytes": 31833,
+  "total_records": 50
 }
